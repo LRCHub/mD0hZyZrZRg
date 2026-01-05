@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "base_track": "証明",
+  "base_artist": "SUPER BEAVER",
+  "createdAt": "2026-01-05T03:39:17.607009Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "証明≒Destruction",
+      "artist": "やいり",
+      "has_synced": false,
+      "path": "select/01_証明≒Destruction_やいり.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "証明",
+      "artist": "SUPER BEAVER",
+      "has_synced": false,
+      "path": "select/pl_01_証明_SUPER_BEAVER.txt"
+    }
+  ]
+}
